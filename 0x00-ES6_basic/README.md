@@ -1,2 +1,2 @@
 # Test Page
-kkkk
+0x00-ES6_basic
